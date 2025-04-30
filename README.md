@@ -1,4 +1,4 @@
-# 🐾 VeterinaryLLM: A Safe Small Language Model for Animal Science
+# 🐾 AniSafeLM: A Safe Small Language Model for Animal Science
 
 **VeterinaryLLM** is a domain-specific Language Model focused on **veterinary** and **animal science**, designed to improve the **safety**, **accuracy**, and **efficiency** of AI-generated responses in this critical field. Built using a robust fine-tuning pipeline on **LLaMA-3.1**, it demonstrates how smaller, specialized models can outperform large general-purpose LLMs when properly aligned.
 
